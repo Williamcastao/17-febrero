@@ -1,3 +1,22 @@
-.bh-mio{
-    background-color: red!important;
+
+.Portafolio{
+    background-color: rgb(255, 255, 255);
+    height: 800px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.Contact{
+    background-color: aliceblue;
+    height: 800px;
+}
+button{
+    background-color: aqua;
+    border-radius: 100px;
+}
+.inicio{
+    background-color: rgb(26, 188, 156);
+    height: 800px;
+    font-size: medium;
+    color:white;
+
 }
