@@ -1,7 +1,7 @@
 
 .Portafolio{
     background-color: rgb(255, 255, 255);
-    height: 800px;
+    height: 600px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -18,5 +18,9 @@ button{
     height: 800px;
     font-size: medium;
     color:white;
-
+}
+.About{
+    background-color:rgb(26, 188 , 156);
+    height: 500px;
+    text-align: center;
 }
