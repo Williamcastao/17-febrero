@@ -1,7 +1,8 @@
 
+
 .Portafolio{
     background-color: rgb(255, 255, 255);
-    height: 600px;
+    height: 500px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -10,17 +11,28 @@
     height: 800px;
 }
 button{
-    background-color: aqua;
+    background-color: rgb(26, 188, 156);
     border-radius: 100px;
+    color: white;
+    border-color: white;
 }
 .inicio{
     background-color: rgb(26, 188, 156);
-    height: 800px;
-    font-size: medium;
+    height: 600px;
     color:white;
 }
 .About{
     background-color:rgb(26, 188 , 156);
-    height: 500px;
-    text-align: center;
+    height: 600px;
+    color:white;
+
+}
+.info{
+    background-color:rgb(44, 62, 80);
+    color: white;
+    height: 400px;
+}
+.copy{
+    background-color: rgb(26, 37, 47);
+    color:white;
 }
