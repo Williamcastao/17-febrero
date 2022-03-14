@@ -2,7 +2,7 @@
 
 .Portafolio{
     background-color: rgb(255, 255, 255);
-    height: 500px;
+    height: 800px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -18,21 +18,28 @@ button{
 }
 .inicio{
     background-color: rgb(26, 188, 156);
-    height: 600px;
+    height: 800px;
     color:white;
 }
 .About{
     background-color:rgb(26, 188 , 156);
-    height: 600px;
+    height: 800px;
     color:white;
+    text-align: center;
 
 }
 .info{
     background-color:rgb(44, 62, 80);
     color: white;
-    height: 400px;
+    height: 200px;
 }
 .copy{
     background-color: rgb(26, 37, 47);
     color:white;
+}
+.parrafo1{
+    text-align: center;
+}
+.parrafo2{
+    text-align: center;
 }
